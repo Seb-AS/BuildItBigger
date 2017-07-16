@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/incremental-runtime-classes/free/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10000/instant-run_ca7f40007c3a6698e8d37435272c45adc074c9b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/9eb85019a1c828165538e4ad4800e08fd9859c7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0dc1af4997434691ade16df4be64d49d1bd1fef5">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_a88916e1c9a0a7f36088a3f405abe0c69450d7f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/77016055b66b22aab5faace45867e976a6548eaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_7ae72078a9b59794111934315f0a7790c1c672cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/5e8e201c2d0886df4cd8c0a8cb7d2469099539d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c16e0d5f6efb0cdae98b38fe9a48d5236ea136d0">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_b90299f3c5fec64f3e72aaf321c08090b857a234/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/fef614ac3a7d8d716fd83d4a7c37261a62f00721/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_2653361435860b0b0b0e47b206d192e8bfe1dcb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/junit-4.12_4b21670b604142c623926a089fd0b14a7ba3ca3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/d00b3ef5e291c9bcc6c7f8889a1aff91f4bc0874/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_d88e1cd3a9eb29d79259ec00030ba3208333b404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/e1d4e233eb5db43c45c3e8420d8d009d5907e22f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_7d6f0183a43a81b92b3d4c48aa8a7fd3429f8364/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/61aac5cd76b91bc66e01361a45689cad4044df60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_a8355e291d6ec235f503bf245b85bc5519c75cc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/10b172c0e34b4c8f0ed4a10a5951ed311eae2770/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d4384aa06b19d6aecdb87102784d5c0d2ea7532">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_ea449d8438a4e7452f5a2ca3773ecc60c82583b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/d8c4153f90eae93c24061720d0426efc5470e12b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de123ff49c41c304ca4bc7eb5600d294984eaf5f">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_6bb97b690a6af34c7afc1705d6bd381fde8f16fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-android-1.22.0_965f8b94182ee49fe446bdcf800fdcf4018d22f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/hamcrest-core-1.3_3045f8ffbce32da99cecf8aace4e857c65675eb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/f549104e3371947e19aca5229ac51677e7dcea03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_e8130933f3bc60dcf075705e2bf78fb1616bf9ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-1.22.0_fcd9fb549cf4bddf7fc706973cf891bfa4eae1b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/2960208ac7957b2ab3c94f2abeada521faf7b935/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="589f444b075f47c43c78d6d7c46198b34ce4c1b6">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_390193e9db6dcce18e9f3b1c24adb804a154d195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/.android/build-cache/2bf84053bc3aa9dd65a7f0a3f1bdc23799b6d908/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_982da64b304474ccf058f7c5a9b5f72d6283e687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/incremental-classes/free/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="244969c1af45c0e542780144e2916b7f1b72e55a">
+        <dex dex="/Users/Sebas/Documents/Udacity/Android/BuildItBigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10000/instant-run-bootstrap_6586d66d460cb0027c02b56884cb94d9a1c4c898/classes.dex" />
+    </item>
+
+</items>

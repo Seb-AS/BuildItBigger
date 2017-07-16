@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Sebas/Documents/Udacity/Android/BuildItBigger/jokeviewer/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Sebas/.android/build-cache/ea433d2c5558e994fb05f25b9ff89439c52fdc3a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Sebas/Documents/Udacity/Android/BuildItBigger/jokeviewer/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Sebas/.android/build-cache/ea433d2c5558e994fb05f25b9ff89439c52fdc3a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
