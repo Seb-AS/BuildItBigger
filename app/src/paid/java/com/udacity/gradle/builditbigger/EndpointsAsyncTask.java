@@ -1,25 +1,21 @@
 package com.udacity.gradle.builditbigger;
 
 import android.content.Context;
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.util.Pair;
 import android.view.View;
 import android.widget.ProgressBar;
+import android.widget.Toast;
 
-import com.example.matteo.myandroidlibrary.JokeDisplayActivity;
-import com.example.matteo.myapplication.backend.jokeApi.JokeApi;
-import com.example.matteo.myapplication.backend.jokeApi.model.JokeBean;
+import com.example.sebas.myapplication.backend.myApi.MyApi;
+import com.example.sebas.myapplication.backend.myApi.model.MyBean;
 import com.google.api.client.extensions.android.http.AndroidHttp;
 import com.google.api.client.extensions.android.json.AndroidJsonFactory;
 
 import java.io.IOException;
 
-/**
- * Created by Matteo on 30/06/2015.
- */
 class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, String> {
-    private static JokeApi mJokeApi = null;
+    private static MyApi mJokeApi = null;
     private Context mContext;
     private String mResult;
     private ProgressBar mProgressBar;
@@ -40,16 +36,19 @@ class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, String> 
     @Override
     protected String doInBackground(Pair<Context, String>... params) {
         if (mJokeApi == null) {
-            JokeApi.Builder builder = new JokeApi.Builder(AndroidHttp.newCompatibleTransport(),
+            MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(),
                     new AndroidJsonFactory(), null)
-                    .setRootUrl(mContext.getString(R.string.root_url_api));
+                    .setRootUrl(mContext.getString(R.string.root_api));
             mJokeApi = builder.build();
         }
         try {
-            return mJokeApi.putJoke(new JokeBean()).execute().getJoke();
+
+            return mJokeApi.putJoke(new MyBean()).execute().getJoke();
         } catch (IOException e) {
             return e.getMessage();
         }
+
+        return "test";
     }
 
     @Override
@@ -63,10 +62,11 @@ class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, String> 
     }
 
     private void startJokeDisplayActivity() {
-        Intent intent = new Intent(mContext, JokeDisplayActivity.class);
+        /*Intent intent = new Intent(mContext, .class);
         intent.putExtra(JokeDisplayActivity.INTENT_JOKE, mResult);
         intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-        mContext.startActivity(intent);
+        mContext.startActivity(intent);*/
+        Toast.makeText(mContext, mResult+" : joke aya", Toast.LENGTH_SHORT).show();
     }
 
 }
